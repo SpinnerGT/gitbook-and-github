@@ -1,17 +1,10 @@
-<!--
- * @Author: your name
- * @Date: 2021-10-11 23:59:06
- * @LastEditTime: 2021-10-12 00:00:55
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: \gitbook-learning\SUMMARY.md
--->
 # Table of contents
 
 ## Group 1
 
 * [Page 1](README.md)
-* [Page 2](group-1/page-2.md)
+  * [子界面1](group-1/readme/page-2/README.md)
+    * [Page 2](group-1/readme/page-2/page-2.md)
 * [Page 3](group-1/page-3.md)
 
 ***
@@ -20,7 +13,8 @@
 
 ## Group 2
 
-* [服务器配置](group-2/fu-wu-qi-pei-zhi.md)
+* [服务器配置](group-2/fu-wu-qi-pei-zhi/README.md)
+  * [Page 5](group-2/fu-wu-qi-pei-zhi/page-5.md)
 
 ***
 
