@@ -1,0 +1,10 @@
+root: ./     # your documentation defaults path,All other options that specify paths will be relative to this root folder
+
+structure:  
+    readme: ./docs/README.md
+    summary: ./docs/SUMMARY.md
+    
+    
+
+# redirects:
+  
