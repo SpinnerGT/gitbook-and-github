@@ -16,7 +16,11 @@
 
 * [服务器配置](group-2/fu-wu-qi-pei-zhi/README.md)
   * [Page 5](group-2/fu-wu-qi-pei-zhi/page-5.md)
-* [Page 6](group-2/page-6.md)
+* [Page 6](group-2/page-6/README.md)
+  * [page6-1](group-2/page-6/page6-1/README.md)
+    * [Page6-1-1](group-2/page-6/page6-1/page6-1-1.md)
+    * [Page6-1-2](group-2/page-6/page6-1/page6-1-2.md)
+  * [Page6-2](group-2/page-6/page6-2.md)
 
 ***
 
